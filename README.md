@@ -34,8 +34,9 @@
 
 ## 🎙️SHAH NEIL KHAN | TABAYYUN TV
 
-![Cover](https://raw.githubusercontent.com/edhafahsoft/cover/main/banner.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edhafahsoft/cover/main/banner.svg" alt="Cover Image" />
+</p>
 
 
 
