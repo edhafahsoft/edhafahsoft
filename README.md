@@ -45,7 +45,11 @@
 
 ## Hi there 👋
 
-Turning ideas into smooth mobile experiences at edhafahsoft.
+At edhafahsoft, we build innovative software solutions with a focus on quality and performance.
+As a Flutter developer here, I contribute to creating seamless cross-platform mobile apps with clean UI and smooth user experience.
+Our goal is to bring ideas to life through technology that empowers users and businesses alike.
+
+
 
 
 
