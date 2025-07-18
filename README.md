@@ -1,4 +1,47 @@
-## Hi there 👋
+<p align="center">
+
+  <!-- HOME with purple background -->
+  <a href="https://github.com/ishahneilkhan">
+    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
+  </a>
+
+  <!-- Transparent Background Buttons -->
+  <a href="https://github.com/ishahneilkhan/about">
+    <img src="https://img.shields.io/badge/About-transparent?style=for-the-badge&logo=about-dot-me&logoColor=green&labelColor=transparent&color=transparent" />
+  </a>
+
+  <a href="https://github.com/ishahneilkhan/Contact">
+    <img src="https://img.shields.io/badge/Contact-transparent?style=for-the-badge&logo=minutemailer&logoColor=green&labelColor=transparent&color=transparent" />
+  </a>
+
+  <a href="https://github.com/ishahneilkhan?tab=projects">
+    <img src="https://img.shields.io/badge/Projects-transparent?style=for-the-badge&logo=github&logoColor=green&labelColor=transparent&color=transparent" />
+  </a>
+
+  <a href="https://github.com/ishahneilkhan/Assignments">
+    <img src="https://img.shields.io/badge/Assignments-transparent?style=for-the-badge&logo=bookstack&logoColor=green&labelColor=transparent&color=transparent" />
+  </a>
+
+  <a href="https://github.com/ishahneilkhan/blogs">
+    <img src="https://img.shields.io/badge/Blogs-transparent?style=for-the-badge&logo=ghost&logoColor=green&labelColor=transparent&color=transparent" />
+  </a>
+
+  <a href="https://github.com/ishahneilkhan/Gallery">
+    <img src="https://img.shields.io/badge/Gallery-transparent?style=for-the-badge&logo=googlephotos&logoColor=green&labelColor=transparent&color=transparent" />
+  </a>
+
+  <a href="https://github.com/ishahneilkhan/Download/tree/main">
+    <img src="https://img.shields.io/badge/Download-transparent?style=for-the-badge&logo=googleplay&logoColor=green&labelColor=transparent&color=transparent" />
+  </a>
+
+</p>
+
+
+
+
+
+
+
 
 
 ## 🎙️SHAH NEIL KHAN | TABAYYUN TV
