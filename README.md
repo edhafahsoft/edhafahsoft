@@ -32,7 +32,7 @@
 
 
 
-## 🎙️SHAH NEIL KHAN | TABAYYUN TV
+## 🎙️ SHAH NEIL KHAN | EDHAFAH SOFT
 
 ![Design Image](https://raw.githubusercontent.com/edhafahsoft/Design/main/Frame%201.svg)
 
@@ -45,13 +45,7 @@
 
 ## Hi there 👋
 
-I'm a full-time **Flutter Developer** passionate about crafting sleek, high-performance mobile applications.  
-I specialize in building cross-platform apps with clean UI/UX and robust functionality.  
-Let's turn great ideas into smooth mobile experiences!
-
-
-
-
+Turning ideas into smooth mobile experiences at edhafahsoft.
 
 
 
