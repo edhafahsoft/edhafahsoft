@@ -1,37 +1,53 @@
 <p align="center">
 
-  <!-- HOME with purple background -->
+  <!-- HOME button with green background -->
   <a href="https://github.com/ishahneilkhan">
-    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home&logoColor=white" />
+    <button style="background-color: green; color: white; border: none; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
+      HOME
+    </button>
   </a>
 
-  <!-- Transparent Background Buttons -->
+  <!-- Transparent buttons with green border -->
   <a href="https://github.com/ishahneilkhan/about">
-    <img src="https://img.shields.io/badge/About-transparent?style=for-the-badge&logo=about-dot-me&logoColor=green&labelColor=transparent&color=transparent" />
+    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
+      ABOUT
+    </button>
   </a>
 
   <a href="https://github.com/ishahneilkhan/Contact">
-    <img src="https://img.shields.io/badge/Contact-transparent?style=for-the-badge&logo=minutemailer&logoColor=green&labelColor=transparent&color=transparent" />
+    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
+      CONTACT
+    </button>
   </a>
 
   <a href="https://github.com/ishahneilkhan?tab=projects">
-    <img src="https://img.shields.io/badge/Projects-transparent?style=for-the-badge&logo=github&logoColor=green&labelColor=transparent&color=transparent" />
+    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
+      PROJECTS
+    </button>
   </a>
 
   <a href="https://github.com/ishahneilkhan/Assignments">
-    <img src="https://img.shields.io/badge/Assignments-transparent?style=for-the-badge&logo=bookstack&logoColor=green&labelColor=transparent&color=transparent" />
+    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
+      ASSIGNMENTS
+    </button>
   </a>
 
   <a href="https://github.com/ishahneilkhan/blogs">
-    <img src="https://img.shields.io/badge/Blogs-transparent?style=for-the-badge&logo=ghost&logoColor=green&labelColor=transparent&color=transparent" />
+    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
+      BLOGS
+    </button>
   </a>
 
   <a href="https://github.com/ishahneilkhan/Gallery">
-    <img src="https://img.shields.io/badge/Gallery-transparent?style=for-the-badge&logo=googlephotos&logoColor=green&labelColor=transparent&color=transparent" />
+    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
+      GALLERY
+    </button>
   </a>
 
   <a href="https://github.com/ishahneilkhan/Download/tree/main">
-    <img src="https://img.shields.io/badge/Download-transparent?style=for-the-badge&logo=googleplay&logoColor=green&labelColor=transparent&color=transparent" />
+    <button style="background-color: transparent; color: green; border: 2px solid green; border-radius: 4px; padding: 10px 20px; margin: 5px; font-weight: bold; text-transform: uppercase; cursor: pointer;">
+      DOWNLOAD
+    </button>
   </a>
 
 </p>
