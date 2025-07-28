@@ -221,101 +221,47 @@ Highlight a few key repositories with descriptions and links:
 
 
 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Designer Landing Page</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Welcome to My Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #667eea, #764ba2);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    h1 {
+      font-size: 3rem;
+    }
+    p {
+      font-size: 1.2rem;
+    }
+    a.button {
+      background: white;
+      color: #764ba2;
+      padding: 12px 24px;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 20px;
+      display: inline-block;
+    }
+  </style>
 </head>
-<body class="bg-gray-100 text-gray-800">
-
-  <!-- Hero Section -->
-  <header class="bg-white shadow">
-    <div class="max-w-7xl mx-auto px-4 py-6 flex justify-between items-center">
-      <h1 class="text-2xl font-bold">SNK Design Studio</h1>
-      <nav class="space-x-4">
-        <a href="#portfolio" class="text-gray-600 hover:text-black">Portfolio</a>
-        <a href="#services" class="text-gray-600 hover:text-black">Services</a>
-        <a href="#contact" class="text-gray-600 hover:text-black">Contact</a>
-      </nav>
-    </div>
-  </header>
-
-  <!-- Hero Content -->
-  <section class="text-center py-20 bg-gradient-to-r from-indigo-500 to-purple-600 text-white">
-    <h2 class="text-4xl font-extrabold mb-4">Creative Designs That Speak</h2>
-    <p class="text-lg mb-6">I help brands stand out through modern, minimal, and powerful visuals.</p>
-    <div class="space-x-4">
-      <a href="#portfolio" class="bg-white text-indigo-600 font-semibold px-6 py-3 rounded-lg hover:bg-gray-100">View Portfolio</a>
-      <a href="#contact" class="bg-indigo-700 font-semibold px-6 py-3 rounded-lg hover:bg-indigo-800">Hire Me</a>
-    </div>
-  </section>
-
-  <!-- Portfolio Section -->
-  <section id="portfolio" class="py-16 px-6 max-w-6xl mx-auto">
-    <h3 class="text-3xl font-bold text-center mb-10">My Work</h3>
-    <div class="grid md:grid-cols-3 gap-6">
-      <div class="bg-white shadow rounded-lg overflow-hidden">
-        <img src="https://via.placeholder.com/400x300" alt="Logo 1" class="w-full">
-        <div class="p-4">
-          <h4 class="font-semibold text-lg">Avisor Gramming</h4>
-          <p class="text-gray-600">Modern gaming brand logo design.</p>
-        </div>
-      </div>
-      <div class="bg-white shadow rounded-lg overflow-hidden">
-        <img src="https://via.placeholder.com/400x300" alt="Logo 2" class="w-full">
-        <div class="p-4">
-          <h4 class="font-semibold text-lg">Urban Stack</h4>
-          <p class="text-gray-600">Clean and minimal tech startup logo.</p>
-        </div>
-      </div>
-      <div class="bg-white shadow rounded-lg overflow-hidden">
-        <img src="https://via.placeholder.com/400x300" alt="Logo 3" class="w-full">
-        <div class="p-4">
-          <h4 class="font-semibold text-lg">Nature Bloom</h4>
-          <p class="text-gray-600">Elegant and organic brand design.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Services Section -->
-  <section id="services" class="py-16 bg-gray-200 text-center">
-    <h3 class="text-3xl font-bold mb-8">What I Offer</h3>
-    <div class="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto px-4">
-      <div class="bg-white p-6 rounded-lg shadow">
-        <h4 class="text-xl font-semibold mb-2">Logo Design</h4>
-        <p class="text-gray-600">Custom logos tailored to your brand.</p>
-      </div>
-      <div class="bg-white p-6 rounded-lg shadow">
-        <h4 class="text-xl font-semibold mb-2">Brand Identity</h4>
-        <p class="text-gray-600">Complete visual identity and branding.</p>
-      </div>
-      <div class="bg-white p-6 rounded-lg shadow">
-        <h4 class="text-xl font-semibold mb-2">UI/UX Design</h4>
-        <p class="text-gray-600">User-friendly and visually engaging interfaces.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- Contact Section -->
-  <section id="contact" class="py-16 text-center">
-    <h3 class="text-3xl font-bold mb-6">Let’s Work Together</h3>
-    <p class="text-gray-600 mb-8">Have a project in mind? Let's bring your ideas to life.</p>
-    <a href="mailto:thesnkgraphic@email.com" class="bg-indigo-600 text-white px-6 py-3 rounded-lg hover:bg-indigo-700">Send a Message</a>
-  </section>
-
-  <!-- Footer -->
-  <footer class="bg-white py-6 text-center text-gray-500 text-sm">
-    © 2025 SNK Design Studio. All rights reserved.
-  </footer>
-
+<body>
+  <div>
+    <h1>Welcome to My Landing Page</h1>
+    <p>This is a simple portfolio or product intro page.</p>
+    <a href="mailto:your@email.com" class="button">Contact Me</a>
+  </div>
 </body>
 </html>
